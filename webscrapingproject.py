@@ -80,6 +80,6 @@ for product in products:
 #         time.sleep(5)
 
 # Read the csv 
-df = pd.read_csv('C:\\Users\\adamc\\Documents\\Python Project\\Ebay Webscraper\\eBayNintendoSwitchOledDataset.csv')
+df = pd.read_csv('eBayNintendoSwitchOledDataset.csv')
 
 print(df)
